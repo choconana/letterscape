@@ -1,13 +1,13 @@
 # letterscape
-* One liner: 
+## One liner
 
   Our project addresses the efficiency of propagation and imbalance income for creators through NFTnomics and help user to screen out valuable contents
 
-* Value proposition:
+## Value proposition
 
   Make creator's production investable
 
-* Detail:
+## Detail
 
   Vision: Our project devotes to resolve the most crucial and fundamental problem in creator economy: imbalance resource distribution for creators. Our project provide a way of NFTnomics to address the problem.
 
@@ -28,4 +28,7 @@
 
   For user: Find high valued content will get much easier. Or buy on the low price, then sharing and promoting or doing nothing just waiting, finally sell on the high price to the brand parties or others and earn a margin.
 
-* demo vedio: https://youtu.be/oeChQCEGRsc
+## demo vedio: https://youtu.be/oeChQCEGRsc
+
+## screenshot
+![content_page](./assets/content_page.png)
