@@ -27,3 +27,5 @@
   For creator: Once creators mint NFT for their productions, every time NFT sold, creators will receive an income from positive price difference.
 
   For user: Find high valued content will get much easier. Or buy on the low price, then sharing and promoting or doing nothing just waiting, finally sell on the high price to the brand parties or others and earn a margin.
+
+* demo vedio: https://youtu.be/oeChQCEGRsc
