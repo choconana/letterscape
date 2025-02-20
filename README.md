@@ -30,5 +30,16 @@
 
 ## demo vedio: https://youtu.be/oeChQCEGRsc
 
-## screenshot
+## screenshots
 ![content_page](./assets/content_page.png)
+
+![mint_page](./assets/mint_page.png)
+
+![nft_page](./assets/nft_page.png)
+
+![nft_hold_page](./assets/nft_hold_page.png)
+
+![nft_detail](./assets/nft_detail.png)
+
+![content_detail](./assets/nft_detail.png)
+
